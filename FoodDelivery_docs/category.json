@@ -1,0 +1,18 @@
+[
+    {
+        "name":"Pizza",
+        "pic":"cat_1"
+    },{
+        "name":"Burger",
+        "pic":"cat_2"
+    },{
+        "name":"Hotdog",
+        "pic":"cat_3"
+    },{
+        "name":"Drink",
+        "pic":"cat_4"
+    },{
+        "name":"Donut",
+        "pic":"cat_5"
+    }
+]

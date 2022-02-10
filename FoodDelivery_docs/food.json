@@ -1,0 +1,123 @@
+[
+    {
+        "name":"Pepperoni pizza",
+        "description":"slices pepperoni ,mozzarella cheese, fresh oregano,  ground black pepper, pizza sauce",
+        "price":9.76,
+        "pic":"pizza1",
+        "categoryId":1
+    },{
+        "name":"Salami pizza",
+        "description":"Boden aus Teig, Tomatensoße, Käse und weiterer Belag",
+        "price":7.46,
+        "pic":"pizza3",
+        "categoryId":1
+    },{
+        "name":"Vegetable pizza",
+        "description":"olive oil, Vegetable oil, pitted Kalamata, cherry tomatoes, fresh oregano, basil",
+        "price":8.5,
+        "pic":"pizza2",
+        "categoryId":1
+    },{
+        "name":"Vegetable pizza 2",
+        "description":"olive oil, Vegetable oil, pitted Kalamata, cherry tomatoes, fresh oregano, basil",
+        "price":9.5,
+        "pic":"pizza4",
+        "categoryId":1
+    },{
+        "name":"Olives pizza",
+        "description":"olive oil, Vegetable oil, pitted Kalamata, cherry tomatoes, fresh oregano, basil",
+        "price":11.5,
+        "pic":"pizza5",
+        "categoryId":1
+    },{
+        "name":"Bacon Burger",
+        "description":"beef, Gouda Cheese, Special sauce, Lettuce, tomato ",
+        "price":8.79,
+        "pic":"burger1",
+        "categoryId":2
+    },{
+        "name":"Royal TS Burger",
+        "description":"beef, Gouda Cheese, Special sauce, Lettuce, tomato ",
+        "price":7.79,
+        "pic":"burger2",
+        "categoryId":2
+    },{
+        "name":"Salad Burger",
+        "description":"beef, Gouda Cheese, Special sauce, Lettuce, tomato ",
+        "price":7.79,
+        "pic":"burger3",
+        "categoryId":2
+    },{
+        "name":"Chicken Burger",
+        "description":"beef, Gouda Cheese, Special sauce, Lettuce, tomato ",
+        "price":5.79,
+        "pic":"burger4",
+        "categoryId":2
+    },{
+        "name":"Cheese Burger",
+        "description":"beef, Gouda Cheese, Special sauce, Lettuce, tomato ",
+        "price":2.99,
+        "pic":"burger5",
+        "categoryId":2
+    },{
+        "name":"Default HotDog",
+        "description":"beef, Gouda Cheese, Special sauce, Lettuce, tomato ",
+        "price":4.30,
+        "pic":"hotdog1",
+        "categoryId":3
+    },{
+        "name":"Salad HotDog",
+        "description":"beef, Gouda Cheese, Special sauce, Lettuce, tomato ",
+        "price":4.70,
+        "pic":"hotdog2",
+        "categoryId":3
+    },{
+        "name":"Cola",
+        "description":"typical cola can",
+        "price":4.30,
+        "pic":"drink1",
+        "categoryId":4
+    },{
+        "name":"Fanta",
+        "description":"Just Fanta",
+        "price":4.30,
+        "pic":"drink2",
+        "categoryId":4
+    },{
+        "name":"Water",
+        "description":"Bottle of water",
+        "price":4.30,
+        "pic":"drink3",
+        "categoryId":4
+    },{
+        "name":"Beer",
+        "description":"Heineken 0.25l",
+        "price":4.30,
+        "pic":"drink4",
+        "categoryId":4
+    },{
+        "name":"Hugo",
+        "description":"0.4l Alcohol with lemon",
+        "price":4.30,
+        "pic":"drink5",
+        "categoryId":4
+    },{
+        "name":"Choco Donus",
+        "description":"a classic chocolate donut",
+        "price":4.10,
+        "pic":"donut1",
+        "categoryId":5
+    },{
+        "name":"Strawberry Donut",
+        "description":"a classic strawberry donut",
+        "price":3.20,
+        "pic":"donut2",
+        "categoryId":5
+    },{
+        "name":"Default Donus",
+        "description":"a default donut",
+        "price":1.69,
+        "pic":"donut3",
+        "categoryId":5
+    }
+]
